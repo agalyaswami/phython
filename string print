@@ -1,0 +1,5 @@
+def my_function(fname):
+    print("hello"+fname)
+l1=["haran","harin","madhavan","raskin"]
+for x in l1:
+    my_function(x)
